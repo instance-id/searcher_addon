@@ -39,7 +39,7 @@ Ex. If using Windows and following the example listed above, line 24 would look 
     ![](https://i.imgur.com/GzdyUYt.png)  
     ![](https://i.imgur.com/F4C5MOx.png)
 
-6. You should now be able to hit the hotkey below to open the Searcher window:
+6. You should now be able to hit the hotkey below to open the Searcher window:  
     Open Searcher Window: <kbd>Ctrl</kbd>+<kbd>`</kbd>
 
 ### Notes
@@ -59,4 +59,6 @@ Ex. If using Windows and following the example listed above, line 24 would look 
 
 
 
-<i class="fa fa-firefox fa-1x"></i> [website](https://instance.id/) | <i class="fa fa-twitter fa-1x"></i> [twitter](https://twitter.com/instance_id) | <i class="fa fa-github fa-1x"> </i> [github](https://github.com/instance-id) | <i class="fa fa-bug fa-1x"></i> [issues](https://github.com/instance-id/searcher_addon/issues?q=) | <i class="fa fa-at fa-1x"></i> [email](https://github.com/instance-id/searcher_addon/issues?q=)
+<i class="fa fa-firefox fa-1x"></i> [website](https://instance.id/) | <i class="fa fa-twitter fa-1x"></i> [twitter](https://twitter.com/instance_id) | <i class="fa fa-github fa-1x"> </i> [github](https://github.com/instance-id) | <i class="fa fa-bug fa-1x"></i> [issues](https://github.com/instance-id/searcher_addon/issues?q=) | <i class="fa fa-at fa-1x"></i> [email](https://github.com/instance-id/searcher_addon/issues?q=)  
+
+<p>i ♥ <i class="fa fa-coffee"></i></p>
