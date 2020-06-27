@@ -54,7 +54,7 @@ Ex. If using Windows and following the example listed above, line 24 would look 
 | OS                                           | Versions Tested                        |
 | -------------------------------------------- | -------------------------------------- |
 | ⊞ Windows: | Windows 10 Pro v10.0.19041.264 (v2004) |
-| 🐧 Linux:     | Pop_OS! (Ubuntu) 19.04/19.48/20.04     |
+| 🐧 Linux:     | Pop_OS! (Ubuntu) 19.04/19.10/20.04     |
 | 🍎 MacOS:     | Coming soon!                           |
 
 
