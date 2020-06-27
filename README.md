@@ -32,8 +32,8 @@ Thanks for checking out Searcher. Below are the instructions to get you up and r
     | <i class="fa fa-linux fa-1x"></i> Linux:     | /home/\<user>/houdini18.0/packages/Searcher.json                       |
     | <i class="fa fa-apple fa-1x"></i> MacOS:     | /Users/\<user>/Library/Preferences/houdini/18.0/packages/Searcher.json |
 
-4. Within the 'packages' folder is the Searcher.json file. Open this file in your editor of choice and edit line #24. Within the second set of quotation marks input the path to the Searcher folder from step #2. On Windows, replace the backslashes (\\) in the path with a forwardslashs (/)
-Ex. If using Windows and following the example listed above, line 24 would look like this:
+4. Within the 'packages' folder is the Searcher.json file. Open this file in your editor of choice and edit line #27. Within the second set of quotation marks input the path to the Searcher folder from step #2. On Windows, replace the backslashes (\\) in the path with a forwardslashs (/)
+Ex. If using Windows and following the example listed above, line 27 would look like this:
     ```
 			"SEARCHERLOCATION": "C:/Users/<user>/houdini_addons/Searcher",
     ```
