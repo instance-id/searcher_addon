@@ -1,7 +1,7 @@
 <!-- Open me in a markdown capable browser, or go to https://github.com/instance-id/searcher_addon -->
 
 ## Searcher
-##### v1.00
+##### v0.1.0
 
 #### [Installation](#install) | [Compatability Details](#notes)
 ---
@@ -9,11 +9,13 @@ Thanks for checking out Searcher. Below are the instructions to get you up and r
 
 #### Install
 
-1. Extract/unzip 'Searcher.zip'. Inside will be a packages and Searcher folder as well as the Install.md file.
+1. Extract/unzip 'Searcher_\<version>.zip'. (ex. Searcher_v0.1.0.zip) Inside will be a packages and Searcher folder as well as a README.md and a url link to this page.
     ```
-   Searcher.zip/ __Install.md
-                |_/packages
-                |_/Searcher
+    Searcher_v0.1.0.zip /
+            Searcher_v0.1.0/__ /packages/
+                            |_ /Searcher/
+                            |__ README.md
+                            |__ Searcher_install_instructions.url
    ```
 
 2. Move the Searcher folder somewhere permanent. It can be placed where ever you would like. Make note of the folder path, as it will be needed in a later step. Examples below:
@@ -51,11 +53,11 @@ Ex. If using Windows and following the example listed above, line 24 would look 
 | ![](https://i.imgur.com/h9Nefqz.png) Houdini: | Version: 18.0.348 and up |
 
 ##### Tested versions
-| OS                                           | Versions Tested                        |
-| -------------------------------------------- | -------------------------------------- |
+| OS         | Versions Tested                        |
+| ---------- | -------------------------------------- |
 | ⊞ Windows: | Windows 10 Pro v10.0.19041.264 (v2004) |
-| 🐧 Linux:     | Pop_OS! (Ubuntu) 19.04/19.10/20.04     |
-| 🍎 MacOS:     | Coming soon!                           |
+| 🐧 Linux:   | Pop_OS! (Ubuntu) 19.04/19.10/20.04     |
+| 🍎 MacOS:   | Coming soon!                           |
 
 
 
