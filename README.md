@@ -3,6 +3,8 @@
 ## Searcher
 ##### v0.1.0
 
+![](https://i.imgur.com/2JCkraG.png)
+
 #### [Installation](#install) | [Compatability Details](#notes)
 ---
 Thanks for checking out Searcher. Below are the instructions to get you up and running.
